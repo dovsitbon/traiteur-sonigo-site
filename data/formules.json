@@ -1,0 +1,25 @@
+{
+  "_source": "Affiche « Formules familles » (Instagram, juin 2026). Épaule ou rôti d'agneau selon disponibilité.",
+  "items": [
+    {
+      "id": "formule-2",
+      "persons": 2,
+      "price": 55,
+      "content": {
+        "fr": ["3 salades au choix", "1 plat pour 2 personnes", "2 hallot", "2 desserts"],
+        "en": ["3 salads of your choice", "1 dish for 2", "2 challahs", "2 desserts"],
+        "he": ["3 סלטים לבחירה", "מנה עיקרית ל-2", "2 חלות", "2 קינוחים"]
+      }
+    },
+    {
+      "id": "formule-4",
+      "persons": 4,
+      "price": 105,
+      "content": {
+        "fr": ["6 salades au choix", "1 plat pour 4 personnes", "3 hallot", "4 desserts"],
+        "en": ["6 salads of your choice", "1 dish for 4", "3 challahs", "4 desserts"],
+        "he": ["6 סלטים לבחירה", "מנה עיקרית ל-4", "3 חלות", "4 קינוחים"]
+      }
+    }
+  ]
+}

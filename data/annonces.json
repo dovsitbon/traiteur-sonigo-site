@@ -1,0 +1,16 @@
+{
+  "_doc": "Bandeau d'infos. Dates AAAA-MM-JJ : l'annonce s'affiche entre from et to. active: false pour la masquer. Les fermetures bloquent aussi la commande.",
+  "items": [
+    {
+      "active": true,
+      "from": "2026-11-01",
+      "to": "2026-12-12",
+      "text": {
+        "fr": "Hanouka approche : demandez le menu de fête",
+        "en": "Hanukkah is coming: ask for the festive menu",
+        "he": "חנוכה מתקרב: בקשו את תפריט החג"
+      }
+    }
+  ],
+  "fermetures": []
+}

@@ -1,0 +1,1 @@
+Emplacement : déposer ici les photos (plats) envoyées par Yonathan, puis les ajouter à PICKS dans scripts/media.mjs.

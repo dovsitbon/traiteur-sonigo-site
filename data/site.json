@@ -1,0 +1,15 @@
+{
+  "name": "Traiteur Sonigo",
+  "fullName": "Traiteur Yonathan Sonigo",
+  "url": "https://traiteur-sonigo.vercel.app",
+  "phone": { "display": "07 81 20 61 85", "intl": "+33 7 81 20 61 85", "wa": "33781206185" },
+  "instagram": "https://www.instagram.com/traiteur_jonas_sonigo/",
+  "instagramHandle": "@traiteur_jonas_sonigo",
+  "city": "Marseille",
+  "region": "Provence-Alpes-Côte d'Azur",
+  "bethDin": "Beth Din de Marseille",
+  "_aRemplir": "adresse de retrait, zone de livraison exacte, certificat de cacherout (image dans public/media/cacherout/certificat.jpg puis certificate ci-dessous), SIRET pour les mentions légales",
+  "certificate": null,
+  "pickupAddress": null,
+  "siret": null
+}

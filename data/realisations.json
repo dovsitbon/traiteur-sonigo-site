@@ -1,0 +1,17 @@
+{
+  "_doc": "Réalisations (grille événements). type : brit-mila, bar-mitsva, chabbat-hatan, fiancailles, fetes, entreprise ou null si inconnu. guests : nombre d'invités ou null. photo : chemin dans public/media. Ajouter les prochaines au début de la liste.",
+  "items": [
+    {
+      "id": "buffet-salle",
+      "type": null,
+      "guests": null,
+      "photo": "/media/evenements/buffet-salle.jpg",
+      "title": {
+        "fr": "Buffet froid en salle",
+        "en": "Cold buffet in a hall",
+        "he": "בופה קר באולם"
+      },
+      "_aRemplir": "Type d'événement, date et nombre d'invités à demander à Yonathan"
+    }
+  ]
+}

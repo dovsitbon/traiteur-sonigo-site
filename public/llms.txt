@@ -1,0 +1,22 @@
+# Traiteur Yonathan Sonigo
+
+> Traiteur cacher Mehadrin à Marseille (surveillance : Beth Din de Marseille). Plats faits maison pour le Chabbat, à commander chaque semaine sur WhatsApp jusqu'au jeudi 20 h, en retrait ou en livraison. Buffets et repas pour les événements : brit mila, bar et bat-mitsva, chabbat hatan, fiançailles, fêtes juives, entreprises.
+
+- Téléphone et WhatsApp : +33 7 81 20 61 85
+- Instagram : https://www.instagram.com/traiteur_jonas_sonigo/
+- Langues du site : français (/fr), anglais (/en), hébreu (/he)
+
+## Carte du Chabbat (prix en euros)
+
+- Salades : 4,50 € le pot de 300 ml (salade cuite, caviar d'aubergine, pommes de terre, mayo, fèves au cumin, coleslaw, caponata, betterave, carottes au cumin, carottes râpées, tehina, poivrons grillés, piment frit, pois chiches, tomates confites)
+- Plats : 19 € avec un accompagnement au choix (bœuf bourguignon, loubia, pkaïla, viande aux champignons, poulet olives champignons, blanquette de veau, poulet caramélisé, saumon à la marocaine, blanquette de saumon, poulet indien coco-curry)
+- Accompagnements : couscous, riz, pommes de terre rôties, tagliatelles, pommes vapeur, nouilles, vol-au-vent
+- Desserts : 2,50 € la part (tartes citron, fruits, chocolat, fraises)
+- Formule 2 personnes : 55 € (3 salades, 1 plat pour 2, 2 hallot, 2 desserts)
+- Formule 4 personnes : 105 € (6 salades, 1 plat pour 4, 3 hallot, 4 desserts)
+
+## Pages
+
+- [Accueil, carte et commande](https://traiteur-sonigo.vercel.app/fr)
+- [English](https://traiteur-sonigo.vercel.app/en)
+- [עברית](https://traiteur-sonigo.vercel.app/he)

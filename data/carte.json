@@ -1,0 +1,70 @@
+{
+  "_source": "Affiche « Commander de délicieux plats faits maison » (Instagram, juin 2026) et story à la une « notre carte ». Prix en euros. photo : chemin dans public/media quand une vraie photo existe.",
+  "categories": [
+    {
+      "id": "salades",
+      "unit": { "fr": "le pot de 300 ml", "en": "300 ml tub", "he": "קופסה של 300 מ״ל" },
+      "price": 4.5,
+      "items": [
+        { "id": "salade-cuite", "name": { "fr": "Salade cuite", "en": "Salade cuite (slow-cooked tomato & pepper)", "he": "סלט מבושל" } },
+        { "id": "caviar-aubergine", "name": { "fr": "Caviar d'aubergine", "en": "Aubergine caviar", "he": "סלט חצילים" } },
+        { "id": "pommes-de-terre", "name": { "fr": "Pommes de terre", "en": "Potato salad", "he": "סלט תפוחי אדמה" } },
+        { "id": "mayo", "name": { "fr": "Salade mayo", "en": "Mayo salad", "he": "סלט מיונז" } },
+        { "id": "feves-cumin", "name": { "fr": "Fèves au cumin", "en": "Broad beans with cumin", "he": "פול בכמון" } },
+        { "id": "coleslaw", "name": { "fr": "Coleslaw", "en": "Coleslaw", "he": "קולסלאו" } },
+        { "id": "caponata", "name": { "fr": "Caponata", "en": "Caponata", "he": "קפונטה" } },
+        { "id": "betterave", "name": { "fr": "Betterave", "en": "Beetroot", "he": "סלק" }, "photo": "/media/salades/carpaccio-betterave.jpg" },
+        { "id": "carottes-cumin", "name": { "fr": "Carottes au cumin", "en": "Cumin carrots", "he": "גזר בכמון" } },
+        { "id": "carottes-rapees", "name": { "fr": "Carottes râpées", "en": "Grated carrots", "he": "גזר מגורד" } },
+        { "id": "tehina", "name": { "fr": "Tehina", "en": "Tahini", "he": "טחינה" } },
+        { "id": "poivrons-grilles", "name": { "fr": "Poivrons grillés", "en": "Roasted peppers", "he": "פלפלים קלויים" } },
+        { "id": "piment-frit", "name": { "fr": "Piment frit", "en": "Fried chilli", "he": "פלפל חריף מטוגן" } },
+        { "id": "pois-chiches", "name": { "fr": "Salade de pois chiches", "en": "Chickpea salad", "he": "סלט חומוס גרגרים" } },
+        { "id": "tomates-confites", "name": { "fr": "Tomates confites", "en": "Candied tomatoes", "he": "עגבניות מיובשות" } }
+      ]
+    },
+    {
+      "id": "plats",
+      "unit": { "fr": "le plat, avec un accompagnement au choix", "en": "per dish, with a side of your choice", "he": "למנה, עם תוספת לבחירה" },
+      "price": 19,
+      "_aRemplir": "Préciser avec Yonathan pour combien de personnes est un plat",
+      "items": [
+        { "id": "boeuf-bourguignon", "name": { "fr": "Bœuf bourguignon", "en": "Beef bourguignon", "he": "בקר בורגיניון" } },
+        { "id": "loubia", "name": { "fr": "Loubia", "en": "Loubia (white beans & beef)", "he": "לוביה" } },
+        { "id": "pkaila", "name": { "fr": "Pkaïla", "en": "Pkaila (spinach & bean stew)", "he": "פקאילה" } },
+        { "id": "viande-champignons", "name": { "fr": "Viande en sauce aux champignons", "en": "Beef in mushroom sauce", "he": "בשר ברוטב פטריות" } },
+        { "id": "poulet-olives", "name": { "fr": "Poulet olives champignons", "en": "Chicken with olives & mushrooms", "he": "עוף זיתים ופטריות" } },
+        { "id": "blanquette-veau", "name": { "fr": "Blanquette de veau", "en": "Veal blanquette", "he": "בלנקט עגל" } },
+        { "id": "poulet-caramelise", "name": { "fr": "Poulet caramélisé", "en": "Caramelised chicken", "he": "עוף מקורמל" } },
+        { "id": "saumon-marocaine", "name": { "fr": "Saumon à la marocaine", "en": "Moroccan-style salmon", "he": "סלמון מרוקאי" } },
+        { "id": "blanquette-saumon", "name": { "fr": "Blanquette de saumon", "en": "Salmon blanquette", "he": "בלנקט סלמון" } },
+        { "id": "poulet-indien", "name": { "fr": "Poulet indien (coco, curry)", "en": "Indian chicken (coconut & curry)", "he": "עוף הודי (קוקוס וקארי)" } }
+      ]
+    },
+    {
+      "id": "accompagnements",
+      "unit": { "fr": "un au choix, compris dans chaque plat", "en": "one included with every dish", "he": "אחת לבחירה, כלולה בכל מנה" },
+      "price": null,
+      "items": [
+        { "id": "couscous", "name": { "fr": "Couscous", "en": "Couscous", "he": "קוסקוס" } },
+        { "id": "riz", "name": { "fr": "Riz", "en": "Rice", "he": "אורז" } },
+        { "id": "pdt-roties", "name": { "fr": "Pommes de terre rôties", "en": "Roast potatoes", "he": "תפוחי אדמה צלויים" } },
+        { "id": "tagliatelles", "name": { "fr": "Tagliatelles", "en": "Tagliatelle", "he": "טליאטלה" } },
+        { "id": "pdt-vapeur", "name": { "fr": "Pommes de terre vapeur", "en": "Steamed potatoes", "he": "תפוחי אדמה מאודים" } },
+        { "id": "nouilles", "name": { "fr": "Nouilles", "en": "Noodles", "he": "אטריות" } },
+        { "id": "vol-au-vent", "name": { "fr": "Vol-au-vent", "en": "Vol-au-vent", "he": "וול-או-וון" } }
+      ]
+    },
+    {
+      "id": "desserts",
+      "unit": { "fr": "la part", "en": "per slice", "he": "למנה" },
+      "price": 2.5,
+      "items": [
+        { "id": "tarte-citron", "name": { "fr": "Tarte au citron", "en": "Lemon tart", "he": "טארט לימון" } },
+        { "id": "tarte-fruits", "name": { "fr": "Tarte aux fruits", "en": "Fruit tart", "he": "טארט פירות" } },
+        { "id": "tarte-chocolat", "name": { "fr": "Tarte au chocolat", "en": "Chocolate tart", "he": "טארט שוקולד" } },
+        { "id": "tarte-fraises", "name": { "fr": "Tarte aux fraises", "en": "Strawberry tart", "he": "טארט תותים" } }
+      ]
+    }
+  ]
+}

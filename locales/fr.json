@@ -1,0 +1,366 @@
+{
+  "meta": {
+    "title": "Traiteur cacher Mehadrin à Marseille – commandes du Chabbat et événements | Traiteur Sonigo",
+    "description": "Traiteur cacher (Beth Din de Marseille) : salades, plats et desserts faits maison pour le Chabbat, à commander jusqu'au jeudi soir sur WhatsApp. Buffets et repas pour brit mila, bar-mitsva, chabbat hatan et fêtes.",
+    "ogAlt": "Buffet de salades et de quiches préparé par le Traiteur Sonigo",
+    "legalTitle": "Mentions légales | Traiteur Sonigo"
+  },
+  "a11y": {
+    "skip": "Aller au contenu",
+    "lang": "Langue du site",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "newTab": "(nouvel onglet)"
+  },
+  "intro": {
+    "skip": "Passer"
+  },
+  "banner": {
+    "label": "Infos pratiques",
+    "close": "Fermer le bandeau",
+    "deadline": "Commandes pour le Chabbat du {friday} jusqu'au {deadline}",
+    "candles": "Bougies à {time}",
+    "paused": "Chabbat chalom : les commandes reprennent {until}"
+  },
+  "nav": {
+    "chabbat": "Chabbat",
+    "carte": "La carte",
+    "events": "Événements",
+    "cacherout": "Cacherout",
+    "contact": "Contact",
+    "order": "Commander pour Chabbat",
+    "orderShort": "Commander",
+    "quote": "Demander un devis",
+    "call": "Appeler",
+    "instagram": "Instagram"
+  },
+  "hero": {
+    "kicker": "Traiteur cacher Mehadrin · Chabbat & événements",
+    "title": "Votre Chabbat, fait maison",
+    "lead": "Salades, plats mijotés et desserts préparés chaque semaine par Yonathan Sonigo. Vous commandez sur WhatsApp, vous retirez ou on vous livre avant Chabbat.",
+    "order": "Commander pour Chabbat",
+    "quote": "Demander un devis",
+    "badge": "Cacher · Beth Din de Marseille",
+    "badgeNote": "Mehadrin, certificat sur demande",
+    "photoCaption": "Buffet servi par le traiteur"
+  },
+  "tiles": {
+    "label": "Ce que nous préparons",
+    "chabbat": {
+      "title": "Chabbat",
+      "text": "Formules familles dès 55 €"
+    },
+    "salades": {
+      "title": "Salades",
+      "text": "15 recettes, 4,50 € le pot"
+    },
+    "plats": {
+      "title": "Plats",
+      "text": "10 plats mijotés, 19 €"
+    },
+    "desserts": {
+      "title": "Desserts",
+      "text": "Tartes maison, 2,50 € la part"
+    },
+    "events": {
+      "title": "Événements",
+      "text": "Brit mila, bar-mitsva, fêtes"
+    }
+  },
+  "services": {
+    "label": "Nos engagements",
+    "items": [
+      {
+        "title": "Cacher Mehadrin",
+        "text": "Sous la surveillance du Beth Din de Marseille"
+      },
+      {
+        "title": "Fait maison",
+        "text": "Tout est cuisiné dans la semaine, rien d'industriel"
+      },
+      {
+        "title": "Retrait ou livraison",
+        "text": "Jeudi soir ou vendredi matin, avant Chabbat"
+      },
+      {
+        "title": "Commande par WhatsApp",
+        "text": "Une réponse rapide de Yonathan, sans compte à créer"
+      }
+    ]
+  },
+  "carte": {
+    "kicker": "La carte du Chabbat",
+    "title": "Composez votre table",
+    "lead": "Ajoutez ce qui vous fait envie, on prépare tout pour le Chabbat qui vient. Les prix sont ceux de la carte en cours.",
+    "tabs": {
+      "salades": "Salades",
+      "plats": "Plats",
+      "accompagnements": "Accompagnements",
+      "desserts": "Desserts"
+    },
+    "add": "Ajouter",
+    "added": "Ajouté",
+    "inCart": "{n} dans la commande",
+    "side": "Accompagnement",
+    "includedSide": "Compris avec chaque plat : choisissez-le en ajoutant le plat.",
+    "noPhoto": "Photo à venir",
+    "portionTbc": "portion à préciser",
+    "formulesTitle": "Formules familles",
+    "formulesLead": "Le Chabbat complet, hallot et desserts compris. Vous choisissez les salades et le plat au moment de commander.",
+    "persons": "Pour {n} personnes",
+    "fromPrice": "{price}",
+    "custom": "Sur mesure",
+    "customText": "Plus de convives, un régime particulier, un menu à composer ensemble : Yonathan vous fait un devis.",
+    "customCta": "Demander un devis",
+    "lamb": "Épaule ou rôti d'agneau possibles selon disponibilité.",
+    "formuleLine": "Formule famille, {n} personnes"
+  },
+  "cart": {
+    "open": "Ma commande",
+    "count": "{n} article|{n} articles",
+    "total": "Total",
+    "estimated": "Total indicatif",
+    "finish": "Finaliser",
+    "empty": "Votre commande est vide : ajoutez des salades, des plats ou une formule depuis la carte.",
+    "remove": "Retirer",
+    "less": "Un de moins",
+    "more": "Un de plus",
+    "qty": "Quantité"
+  },
+  "order": {
+    "title": "Commande pour Chabbat",
+    "for": "Pour le Chabbat du {friday}",
+    "deadline": "Commandes jusqu'au {deadline}.",
+    "nextWeek": "L'heure limite de cette semaine est passée : votre commande sera préparée pour le Chabbat suivant.",
+    "paused": "Chabbat chalom. Les commandes sont fermées pendant Chabbat et reprennent {until}.",
+    "pausedFete": "Hag saméa'h. Les commandes sont fermées pendant {name} et reprennent {until}.",
+    "pausedClosed": "Nous sommes fermés ({name}). Les commandes reprennent {until}.",
+    "close": "Fermer",
+    "persons": "Nombre de personnes",
+    "mode": "Retrait ou livraison",
+    "pickup": "Retrait",
+    "delivery": "Livraison",
+    "address": "Adresse de livraison",
+    "addressHint": "Rue, numéro, code postal, étage",
+    "deliveryNote": "Zone et frais de livraison confirmés par Yonathan.",
+    "day": "Jour",
+    "slot": "Créneau",
+    "noSlots": "Plus de créneau disponible pour ce Chabbat : écrivez-nous sur WhatsApp.",
+    "choices": "Vos choix pour la formule",
+    "choicesHint": "Salades, plat et desserts souhaités",
+    "notes": "Remarques",
+    "notesHint": "Allergies, sans piment, découpe…",
+    "name": "Nom",
+    "phone": "Téléphone",
+    "required": "Merci de compléter : {fields}.",
+    "send": "Envoyer ma commande sur WhatsApp",
+    "pay": "Payer en ligne",
+    "after": "WhatsApp s'ouvre avec le récapitulatif : il ne reste qu'à l'envoyer. Yonathan vous confirme la commande et le total.",
+    "wa": {
+      "title": "Commande Chabbat – Traiteur Sonigo",
+      "shabbat": "Chabbat du",
+      "items": "Articles",
+      "total": "Total indicatif",
+      "persons": "Personnes",
+      "mode": "Mode",
+      "address": "Adresse",
+      "when": "Jour et créneau",
+      "choices": "Choix formule",
+      "notes": "Remarques",
+      "name": "Nom",
+      "phone": "Téléphone",
+      "with": "avec"
+    }
+  },
+  "blocks": {
+    "home": {
+      "kicker": "Fait maison",
+      "title": "La cuisine de chez nous, chaque semaine",
+      "text": "Salade cuite, fèves au cumin, pkaïla, loubia, poulet aux olives : les recettes qu'on attend sur une table de Chabbat, préparées dans la semaine et mises en pots de 300 ml, prêtes à servir.",
+      "cta": "Voir la carte"
+    },
+    "cacherout": {
+      "kicker": "Cacherout",
+      "title": "Cacher Mehadrin, sans compromis",
+      "text": "La cuisine travaille sous la surveillance du Beth Din de Marseille. Le certificat de cacherout est affiché ici dès sa réception, et vous pouvez le demander à tout moment.",
+      "cta": "Notre cacherout",
+      "certificate": "Certificat de cacherout",
+      "certificatePending": "Le certificat sera publié ici. En attendant, Yonathan vous l'envoie sur simple demande.",
+      "authority": "Organisme",
+      "level": "Niveau",
+      "levelValue": "Mehadrin",
+      "ask": "Demander le certificat",
+      "askWa": "Bonjour Yonathan, pouvez-vous m'envoyer votre certificat de cacherout ?"
+    },
+    "events": {
+      "kicker": "Événements",
+      "title": "Vos fêtes, du buffet au repas servi",
+      "text": "Brit mila, bar-mitsva, chabbat hatan ou repas de famille : on compose le menu avec vous selon le nombre d'invités et le budget.",
+      "cta": "Demander un devis"
+    }
+  },
+  "events": {
+    "kicker": "Événements",
+    "title": "Pour chaque moment de famille",
+    "lead": "Dites-nous l'occasion, la date et le nombre d'invités : Yonathan vous répond avec une proposition sur mesure.",
+    "types": {
+      "brit-mila": {
+        "title": "Brit mila",
+        "text": "Buffet sucré-salé après la cérémonie"
+      },
+      "bar-mitsva": {
+        "title": "Bar et bat-mitsva",
+        "text": "Buffet, repas servi ou plateaux"
+      },
+      "chabbat-hatan": {
+        "title": "Chabbat hatan",
+        "text": "Le Chabbat des mariés, du vendredi soir au samedi"
+      },
+      "fiancailles": {
+        "title": "Fiançailles",
+        "text": "Cocktail et buffet pour les deux familles"
+      },
+      "fetes": {
+        "title": "Fêtes juives",
+        "text": "Roch Hachana, Pessa'h, Souccot, Hanouka"
+      },
+      "entreprise": {
+        "title": "Entreprise",
+        "text": "Plateaux et buffets cacher pour vos équipes"
+      }
+    },
+    "realisations": "Réalisations",
+    "guests": "{n} invités",
+    "guestsTbc": "Nombre d'invités à préciser",
+    "more": "D'autres photos arrivent bientôt."
+  },
+  "quote": {
+    "title": "Demande de devis",
+    "lead": "Réponse sur WhatsApp, en général dans la journée.",
+    "type": "Type d'événement",
+    "typeOther": "Autre",
+    "date": "Date",
+    "time": "Heure",
+    "place": "Lieu",
+    "placeHint": "Ville, salle ou domicile",
+    "guests": "Nombre d'invités",
+    "format": "Formule souhaitée",
+    "formats": {
+      "buffet": "Buffet",
+      "servi": "Repas servi",
+      "plateaux": "Plateaux"
+    },
+    "budget": "Budget par personne (facultatif)",
+    "budgetHint": "En euros",
+    "name": "Nom",
+    "phone": "Téléphone",
+    "message": "Message",
+    "messageHint": "Vos envies, le nombre d'enfants, un régime particulier…",
+    "required": "Merci de compléter : {fields}.",
+    "send": "Envoyer ma demande sur WhatsApp",
+    "wa": {
+      "title": "Demande de devis – Traiteur Sonigo"
+    }
+  },
+  "fetes": {
+    "kicker": "Calendrier des fêtes",
+    "title": "Les menus de fête",
+    "lead": "Pour chaque fête, un menu spécial à commander à l'avance. Les dates limites sont indiquées ci-dessous.",
+    "deadline": "Commandes jusqu'au {date}",
+    "soon": "Menu en préparation",
+    "lastYear": "L'an dernier : formules pour 2, 4 ou 6 personnes à {prices}.",
+    "ask": "Être prévenu",
+    "askWa": "Bonjour Yonathan, je souhaite recevoir le menu de {name}.",
+    "dates": "{start} – {end}",
+    "note": "Dates calculées pour Marseille, à titre indicatif."
+  },
+  "how": {
+    "kicker": "Comment ça marche",
+    "title": "Commander en quatre étapes",
+    "steps": [
+      {
+        "title": "Je choisis mes plats",
+        "text": "Salades, plats, desserts ou une formule complète, depuis la carte."
+      },
+      {
+        "title": "J'envoie sur WhatsApp",
+        "text": "Le récapitulatif est prêt, il suffit de l'envoyer avant jeudi 20 h."
+      },
+      {
+        "title": "Yonathan confirme",
+        "text": "Vous recevez la confirmation, le total et l'heure de retrait."
+      },
+      {
+        "title": "Retrait ou livraison",
+        "text": "Jeudi soir ou vendredi matin, tout est prêt avant Chabbat."
+      }
+    ]
+  },
+  "reviews": {
+    "kicker": "Avis",
+    "title": "Ce qu'en disent nos clients"
+  },
+  "faq": {
+    "kicker": "Questions fréquentes",
+    "title": "Avant de commander",
+    "items": [
+      {
+        "q": "Jusqu'à quand puis-je commander pour Chabbat ?",
+        "a": "Jusqu'au jeudi 20 h pour le Chabbat de la semaine. Après, le formulaire vous propose automatiquement le Chabbat suivant. Pour une demande de dernière minute, écrivez à Yonathan sur WhatsApp."
+      },
+      {
+        "q": "Livrez-vous ? Dans quelle zone ?",
+        "a": "Oui, à Marseille et aux alentours, jeudi soir ou vendredi matin. La zone exacte et les frais sont confirmés avec la commande."
+      },
+      {
+        "q": "Où se fait le retrait ?",
+        "a": "Le lieu de retrait vous est indiqué à la confirmation de la commande, avec l'heure choisie."
+      },
+      {
+        "q": "Comment conserver et réchauffer les plats ?",
+        "a": "Au réfrigérateur dès réception. Les plats se réchauffent sur la plata ou au four à couvert ; les salades se servent fraîches. Yonathan vous précise la durée de conservation de chaque plat."
+      },
+      {
+        "q": "Quelle est votre cacherout ?",
+        "a": "Cacher Mehadrin, sous la surveillance du Beth Din de Marseille. Le certificat est disponible sur demande et sera publié sur cette page."
+      },
+      {
+        "q": "Comment se passe le paiement ?",
+        "a": "Les modalités de paiement vous sont indiquées sur WhatsApp, avec la confirmation de la commande ou du devis."
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Traiteur cacher Mehadrin pour le Chabbat et les événements, à Marseille.",
+    "contact": "Contact",
+    "whatsapp": "WhatsApp",
+    "area": "Zone desservie",
+    "areaValue": "Marseille et alentours (zone exacte à confirmer)",
+    "cacherout": "Cacher Mehadrin · Beth Din de Marseille",
+    "legal": "Mentions légales",
+    "rights": "Tous droits réservés."
+  },
+  "mobileBar": {
+    "order": "Commander pour Chabbat",
+    "call": "Appeler",
+    "quote": "Devis"
+  },
+  "legal": {
+    "title": "Mentions légales",
+    "back": "Retour à l'accueil",
+    "editor": "Éditeur du site",
+    "editorText": "Traiteur Yonathan Sonigo, Marseille. SIRET : à remplir. Téléphone : 07 81 20 61 85.",
+    "host": "Hébergement",
+    "hostText": "Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, États-Unis.",
+    "data": "Données personnelles",
+    "dataText": "Le site n'enregistre aucune donnée : les formulaires préparent un message que vous envoyez vous-même sur WhatsApp. Vos informations ne servent qu'à traiter votre commande ou votre demande.",
+    "photos": "Photos",
+    "photosText": "Photos : Traiteur Sonigo."
+  },
+  "alt": {
+    "buffet-salle": "Long buffet de salades, quiches et crudités dressé dans une salle de réception",
+    "carpaccio-betterave": "Grand plat de carpaccio de betterave et salade verte sur un buffet",
+    "buffet-plateaux": "Quiche, plateau de crudités et salades sur le buffet",
+    "betterave-detail": "Carpaccio de betterave, roquette et éclats de fromage"
+  }
+}

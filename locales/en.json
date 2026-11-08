@@ -1,0 +1,366 @@
+{
+  "meta": {
+    "title": "Kosher Mehadrin caterer in Marseille – Shabbat orders and events | Traiteur Sonigo",
+    "description": "Kosher caterer (Beth Din of Marseille): homemade salads, mains and desserts for Shabbat, ordered on WhatsApp until Thursday evening. Buffets and meals for brit milah, bar mitzvah, Shabbat chatan and the holidays.",
+    "ogAlt": "Buffet of salads and quiches prepared by Traiteur Sonigo",
+    "legalTitle": "Legal notice | Traiteur Sonigo"
+  },
+  "a11y": {
+    "skip": "Skip to content",
+    "lang": "Site language",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "newTab": "(opens in a new tab)"
+  },
+  "intro": {
+    "skip": "Skip"
+  },
+  "banner": {
+    "label": "Practical information",
+    "close": "Close banner",
+    "deadline": "Orders for Shabbat {friday} until {deadline}",
+    "candles": "Candles at {time}",
+    "paused": "Shabbat shalom: orders reopen {until}"
+  },
+  "nav": {
+    "chabbat": "Shabbat",
+    "carte": "Menu",
+    "events": "Events",
+    "cacherout": "Kashrut",
+    "contact": "Contact",
+    "order": "Order for Shabbat",
+    "orderShort": "Order",
+    "quote": "Request a quote",
+    "call": "Call",
+    "instagram": "Instagram"
+  },
+  "hero": {
+    "kicker": "Kosher Mehadrin caterer · Shabbat & events",
+    "title": "Your Shabbat, homemade",
+    "lead": "Salads, slow-cooked mains and desserts made every week by Yonathan Sonigo. Order on WhatsApp, then collect or have it delivered before Shabbat.",
+    "order": "Order for Shabbat",
+    "quote": "Request a quote",
+    "badge": "Kosher · Beth Din of Marseille",
+    "badgeNote": "Mehadrin, certificate on request",
+    "photoCaption": "A buffet served by the caterer"
+  },
+  "tiles": {
+    "label": "What we make",
+    "chabbat": {
+      "title": "Shabbat",
+      "text": "Family sets from €55"
+    },
+    "salades": {
+      "title": "Salads",
+      "text": "15 recipes, €4.50 a tub"
+    },
+    "plats": {
+      "title": "Mains",
+      "text": "10 slow-cooked dishes, €19"
+    },
+    "desserts": {
+      "title": "Desserts",
+      "text": "Homemade tarts, €2.50 a slice"
+    },
+    "events": {
+      "title": "Events",
+      "text": "Brit milah, bar mitzvah, holidays"
+    }
+  },
+  "services": {
+    "label": "Our commitments",
+    "items": [
+      {
+        "title": "Kosher Mehadrin",
+        "text": "Supervised by the Beth Din of Marseille"
+      },
+      {
+        "title": "Homemade",
+        "text": "Everything is cooked during the week, nothing industrial"
+      },
+      {
+        "title": "Collection or delivery",
+        "text": "Thursday evening or Friday morning, before Shabbat"
+      },
+      {
+        "title": "Order on WhatsApp",
+        "text": "A quick reply from Yonathan, no account needed"
+      }
+    ]
+  },
+  "carte": {
+    "kicker": "The Shabbat menu",
+    "title": "Build your table",
+    "lead": "Add whatever you like and we prepare it all for the coming Shabbat. Prices are from the current menu.",
+    "tabs": {
+      "salades": "Salads",
+      "plats": "Mains",
+      "accompagnements": "Sides",
+      "desserts": "Desserts"
+    },
+    "add": "Add",
+    "added": "Added",
+    "inCart": "{n} in your order",
+    "side": "Side",
+    "includedSide": "Included with every main: pick it when you add the dish.",
+    "noPhoto": "Photo coming soon",
+    "portionTbc": "portion to be confirmed",
+    "formulesTitle": "Family sets",
+    "formulesLead": "The whole Shabbat, challahs and desserts included. You pick the salads and the main when you order.",
+    "persons": "For {n}",
+    "fromPrice": "{price}",
+    "custom": "Made to measure",
+    "customText": "More guests, a special diet, a menu to build together: Yonathan will send you a quote.",
+    "customCta": "Request a quote",
+    "lamb": "Lamb shoulder or roast lamb available depending on supply.",
+    "formuleLine": "Family set for {n}"
+  },
+  "cart": {
+    "open": "My order",
+    "count": "{n} item|{n} items",
+    "total": "Total",
+    "estimated": "Estimated total",
+    "finish": "Checkout",
+    "empty": "Your order is empty: add salads, mains or a family set from the menu.",
+    "remove": "Remove",
+    "less": "One less",
+    "more": "One more",
+    "qty": "Quantity"
+  },
+  "order": {
+    "title": "Shabbat order",
+    "for": "For Shabbat {friday}",
+    "deadline": "Orders until {deadline}.",
+    "nextWeek": "This week's cut-off has passed: your order will be prepared for the following Shabbat.",
+    "paused": "Shabbat shalom. Orders are closed during Shabbat and reopen {until}.",
+    "pausedFete": "Chag sameach. Orders are closed during {name} and reopen {until}.",
+    "pausedClosed": "We're closed ({name}). Orders reopen {until}.",
+    "close": "Close",
+    "persons": "Number of people",
+    "mode": "Collection or delivery",
+    "pickup": "Collection",
+    "delivery": "Delivery",
+    "address": "Delivery address",
+    "addressHint": "Street, number, postcode, floor",
+    "deliveryNote": "Delivery area and fee confirmed by Yonathan.",
+    "day": "Day",
+    "slot": "Time slot",
+    "noSlots": "No slots left for this Shabbat: message us on WhatsApp.",
+    "choices": "Your choices for the set",
+    "choicesHint": "Salads, main and desserts you'd like",
+    "notes": "Notes",
+    "notesHint": "Allergies, no chilli, slicing…",
+    "name": "Name",
+    "phone": "Phone",
+    "required": "Please fill in: {fields}.",
+    "send": "Send my order on WhatsApp",
+    "pay": "Pay online",
+    "after": "WhatsApp opens with your summary ready to send. Yonathan then confirms the order and the total.",
+    "wa": {
+      "title": "Shabbat order – Traiteur Sonigo",
+      "shabbat": "Shabbat",
+      "items": "Items",
+      "total": "Estimated total",
+      "persons": "People",
+      "mode": "Mode",
+      "address": "Address",
+      "when": "Day and slot",
+      "choices": "Set choices",
+      "notes": "Notes",
+      "name": "Name",
+      "phone": "Phone",
+      "with": "with"
+    }
+  },
+  "blocks": {
+    "home": {
+      "kicker": "Homemade",
+      "title": "Home cooking, every week",
+      "text": "Salade cuite, cumin broad beans, pkaila, loubia, chicken with olives: the dishes everyone expects on a Shabbat table, cooked during the week and packed in 300 ml tubs, ready to serve.",
+      "cta": "See the menu"
+    },
+    "cacherout": {
+      "kicker": "Kashrut",
+      "title": "Kosher Mehadrin, no compromise",
+      "text": "The kitchen works under the supervision of the Beth Din of Marseille. The kashrut certificate will be shown here as soon as we receive it, and you can ask for it at any time.",
+      "cta": "Our kashrut",
+      "certificate": "Kashrut certificate",
+      "certificatePending": "The certificate will be published here. Until then, Yonathan will send it to you on request.",
+      "authority": "Authority",
+      "level": "Level",
+      "levelValue": "Mehadrin",
+      "ask": "Ask for the certificate",
+      "askWa": "Hello Yonathan, could you send me your kashrut certificate?"
+    },
+    "events": {
+      "kicker": "Events",
+      "title": "Your celebrations, from buffet to plated meal",
+      "text": "Brit milah, bar mitzvah, Shabbat chatan or a family meal: we build the menu with you around your guest count and budget.",
+      "cta": "Request a quote"
+    }
+  },
+  "events": {
+    "kicker": "Events",
+    "title": "For every family occasion",
+    "lead": "Tell us the occasion, the date and the number of guests: Yonathan will reply with a tailored proposal.",
+    "types": {
+      "brit-mila": {
+        "title": "Brit milah",
+        "text": "Sweet and savoury buffet after the ceremony"
+      },
+      "bar-mitsva": {
+        "title": "Bar and bat mitzvah",
+        "text": "Buffet, plated meal or platters"
+      },
+      "chabbat-hatan": {
+        "title": "Shabbat chatan",
+        "text": "The couple's Shabbat, Friday night to Saturday"
+      },
+      "fiancailles": {
+        "title": "Engagement",
+        "text": "Cocktail and buffet for both families"
+      },
+      "fetes": {
+        "title": "Jewish holidays",
+        "text": "Rosh Hashanah, Passover, Sukkot, Hanukkah"
+      },
+      "entreprise": {
+        "title": "Corporate",
+        "text": "Kosher platters and buffets for your team"
+      }
+    },
+    "realisations": "Past events",
+    "guests": "{n} guests",
+    "guestsTbc": "Guest count to be confirmed",
+    "more": "More photos coming soon."
+  },
+  "quote": {
+    "title": "Quote request",
+    "lead": "Reply on WhatsApp, usually the same day.",
+    "type": "Type of event",
+    "typeOther": "Other",
+    "date": "Date",
+    "time": "Time",
+    "place": "Venue",
+    "placeHint": "Town, hall or home",
+    "guests": "Number of guests",
+    "format": "Preferred format",
+    "formats": {
+      "buffet": "Buffet",
+      "servi": "Plated meal",
+      "plateaux": "Platters"
+    },
+    "budget": "Budget per person (optional)",
+    "budgetHint": "In euros",
+    "name": "Name",
+    "phone": "Phone",
+    "message": "Message",
+    "messageHint": "What you have in mind, number of children, special diets…",
+    "required": "Please fill in: {fields}.",
+    "send": "Send my request on WhatsApp",
+    "wa": {
+      "title": "Quote request – Traiteur Sonigo"
+    }
+  },
+  "fetes": {
+    "kicker": "Holiday calendar",
+    "title": "Holiday menus",
+    "lead": "A special menu for each holiday, to order in advance. Order cut-off dates are listed below.",
+    "deadline": "Orders until {date}",
+    "soon": "Menu in preparation",
+    "lastYear": "Last year: sets for 2, 4 or 6 people at {prices}.",
+    "ask": "Notify me",
+    "askWa": "Hello Yonathan, I'd like to receive the {name} menu.",
+    "dates": "{start} – {end}",
+    "note": "Dates calculated for Marseille, for guidance."
+  },
+  "how": {
+    "kicker": "How it works",
+    "title": "Order in four steps",
+    "steps": [
+      {
+        "title": "I choose my dishes",
+        "text": "Salads, mains, desserts or a full family set, from the menu."
+      },
+      {
+        "title": "I send it on WhatsApp",
+        "text": "Your summary is ready, just send it before Thursday 8 pm."
+      },
+      {
+        "title": "Yonathan confirms",
+        "text": "You receive the confirmation, the total and the collection time."
+      },
+      {
+        "title": "Collection or delivery",
+        "text": "Thursday evening or Friday morning, all ready before Shabbat."
+      }
+    ]
+  },
+  "reviews": {
+    "kicker": "Reviews",
+    "title": "What our customers say"
+  },
+  "faq": {
+    "kicker": "FAQ",
+    "title": "Before you order",
+    "items": [
+      {
+        "q": "When is the cut-off for Shabbat orders?",
+        "a": "Thursday 8 pm for that week's Shabbat. After that, the form automatically switches to the following Shabbat. For a last-minute request, message Yonathan on WhatsApp."
+      },
+      {
+        "q": "Do you deliver? Where?",
+        "a": "Yes, in Marseille and the surrounding area, on Thursday evening or Friday morning. The exact area and fee are confirmed with your order."
+      },
+      {
+        "q": "Where do I collect my order?",
+        "a": "The collection point is given when your order is confirmed, together with your chosen time."
+      },
+      {
+        "q": "How should I store and reheat the dishes?",
+        "a": "Refrigerate as soon as you receive them. Mains reheat on the Shabbat hot plate or covered in the oven; salads are served cold. Yonathan will tell you how long each dish keeps."
+      },
+      {
+        "q": "What is your kashrut?",
+        "a": "Kosher Mehadrin, under the supervision of the Beth Din of Marseille. The certificate is available on request and will be published on this page."
+      },
+      {
+        "q": "How do I pay?",
+        "a": "Payment details are given on WhatsApp when your order or quote is confirmed."
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Kosher Mehadrin caterer for Shabbat and events in Marseille.",
+    "contact": "Contact",
+    "whatsapp": "WhatsApp",
+    "area": "Area served",
+    "areaValue": "Marseille and surroundings (exact area to be confirmed)",
+    "cacherout": "Kosher Mehadrin · Beth Din of Marseille",
+    "legal": "Legal notice",
+    "rights": "All rights reserved."
+  },
+  "mobileBar": {
+    "order": "Order for Shabbat",
+    "call": "Call",
+    "quote": "Quote"
+  },
+  "legal": {
+    "title": "Legal notice",
+    "back": "Back to home",
+    "editor": "Publisher",
+    "editorText": "Traiteur Yonathan Sonigo, Marseille, France. SIRET: to be added. Phone: +33 7 81 20 61 85.",
+    "host": "Hosting",
+    "hostText": "Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, USA.",
+    "data": "Personal data",
+    "dataText": "This site stores no data: the forms prepare a message that you send yourself on WhatsApp. Your details are only used to handle your order or request.",
+    "photos": "Photos",
+    "photosText": "Photos: Traiteur Sonigo."
+  },
+  "alt": {
+    "buffet-salle": "Long buffet of salads, quiches and crudités laid out in a reception hall",
+    "carpaccio-betterave": "Large platter of beetroot carpaccio with green salad on a buffet",
+    "buffet-plateaux": "Quiche, crudités platter and salads on the buffet",
+    "betterave-detail": "Beetroot carpaccio with rocket and crumbled cheese"
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "_doc": "Avis clients RÉELS uniquement (Google, Instagram, WhatsApp avec l'accord du client). La section reste masquée tant que la liste est vide. Format : { \"name\": \"Prénom N.\", \"event\": \"Chabbat\", \"text\": \"…\", \"source\": \"Google\" }",
+  "items": []
+}

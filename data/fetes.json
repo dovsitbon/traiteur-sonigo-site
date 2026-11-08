@@ -1,0 +1,87 @@
+{
+  "_doc": "Fêtes à venir. Dates AAAA-MM-JJ, heure de Paris. yomTov : périodes où l'on ne prend pas de commande (de l'allumage des bougies de « from » à la sortie de « to »). deadline : dernier jour pour commander le menu de fête. menu null = « menu en préparation ». Dates calculées pour 5787-5788, à vérifier avec un calendrier hébraïque.",
+  "items": [
+    {
+      "id": "hanouka",
+      "name": { "fr": "Hanouka", "en": "Hanukkah", "he": "חנוכה" },
+      "start": "2026-12-04",
+      "end": "2026-12-12",
+      "deadline": "2026-12-01",
+      "yomTov": [],
+      "menu": null
+    },
+    {
+      "id": "pourim",
+      "name": { "fr": "Pourim", "en": "Purim", "he": "פורים" },
+      "start": "2027-03-23",
+      "end": "2027-03-23",
+      "deadline": "2027-03-18",
+      "yomTov": [],
+      "menu": null
+    },
+    {
+      "id": "pessah",
+      "name": { "fr": "Pessa'h", "en": "Passover", "he": "פסח" },
+      "start": "2027-04-21",
+      "end": "2027-04-29",
+      "deadline": "2027-04-14",
+      "yomTov": [
+        { "from": "2027-04-21", "to": "2027-04-23" },
+        { "from": "2027-04-27", "to": "2027-04-29" }
+      ],
+      "menu": null
+    },
+    {
+      "id": "chavouot",
+      "name": { "fr": "Chavouot", "en": "Shavuot", "he": "שבועות" },
+      "start": "2027-06-10",
+      "end": "2027-06-12",
+      "deadline": "2027-06-06",
+      "yomTov": [{ "from": "2027-06-10", "to": "2027-06-12" }],
+      "menu": null
+    },
+    {
+      "id": "roch-hachana",
+      "name": { "fr": "Roch Hachana", "en": "Rosh Hashanah", "he": "ראש השנה" },
+      "start": "2027-10-01",
+      "end": "2027-10-03",
+      "deadline": "2027-09-26",
+      "yomTov": [{ "from": "2027-10-01", "to": "2027-10-03" }],
+      "_source": "Formules Roch Hachana 5787 publiées sur Instagram (août 2026) ; reconduction pour 5788 à confirmer",
+      "menu": {
+        "lastYear": true,
+        "formules": [
+          { "persons": 2, "price": 75 },
+          { "persons": 4, "price": 145 },
+          { "persons": 6, "price": 195 }
+        ],
+        "content": {
+          "fr": "Salades au choix (caviar d'aubergine, patates douces rôties au miel, carottes…), poisson à la marocaine en entrée, bœuf marocain ou poulet aux citrons et olives, tarte aux pommes ou fondant au chocolat, hallot et jus de raisin.",
+          "en": "Salads of your choice (aubergine caviar, honey-roasted sweet potato, carrots…), Moroccan-style fish to start, Moroccan beef or chicken with lemon and olives, apple tart or chocolate fondant, challahs and grape juice.",
+          "he": "סלטים לבחירה (חצילים, בטטה צלויה בדבש, גזר…), דג מרוקאי כמנה ראשונה, בקר מרוקאי או עוף בלימון וזיתים, פאי תפוחים או פונדנט שוקולד, חלות ומיץ ענבים."
+        }
+      }
+    },
+    {
+      "id": "kippour",
+      "name": { "fr": "Yom Kippour", "en": "Yom Kippur", "he": "יום כיפור" },
+      "start": "2027-10-10",
+      "end": "2027-10-11",
+      "deadline": "2027-10-06",
+      "yomTov": [{ "from": "2027-10-10", "to": "2027-10-11" }],
+      "menu": null
+    },
+    {
+      "id": "souccot",
+      "name": { "fr": "Souccot", "en": "Sukkot", "he": "סוכות" },
+      "start": "2027-10-15",
+      "end": "2027-10-24",
+      "deadline": "2027-10-12",
+      "yomTov": [
+        { "from": "2027-10-15", "to": "2027-10-17" },
+        { "from": "2027-10-22", "to": "2027-10-24" }
+      ],
+      "menu": null
+    }
+  ]
+}

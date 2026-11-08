@@ -1,0 +1,20 @@
+{
+  "_doc": "Réglages de la commande du Chabbat. Heures de Paris. Jours : 0 = dimanche, 4 = jeudi, 5 = vendredi, 6 = samedi.",
+  "timezone": "Europe/Paris",
+  "deadline": { "day": 4, "time": "20:00", "_note": "Commandes du Chabbat jusqu'au jeudi 20 h (à confirmer avec Yonathan)" },
+  "slots": {
+    "_note": "Créneaux de retrait et de livraison, à confirmer avec Yonathan",
+    "pickup": { "4": ["19:00 – 20:00", "20:00 – 21:00"], "5": ["09:00 – 10:00", "10:00 – 11:00", "11:00 – 12:00", "12:00 – 13:00"] },
+    "delivery": { "4": ["19:00 – 21:00"], "5": ["09:00 – 11:00", "11:00 – 13:00"] }
+  },
+  "delivery": { "enabled": true, "fee": null, "minimum": null, "_note": "Frais et minimum de livraison à remplir (null = annoncés à la confirmation)" },
+  "geo": { "lat": 43.2965, "lng": 5.3698, "_note": "Marseille : sert au calcul de l'allumage des bougies et de la fin du Chabbat" },
+  "candleMinutesBeforeSunset": 18,
+  "havdalahMinutesAfterSunset": 50,
+  "payment": {
+    "enabled": false,
+    "provider": "stripe",
+    "paymentLink": null,
+    "_note": "Paiement en ligne prévu mais désactivé : passer enabled à true et coller un lien de paiement Stripe (Payment Link) pour l'activer"
+  }
+}
